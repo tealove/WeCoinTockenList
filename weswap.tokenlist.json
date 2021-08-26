@@ -1,0 +1,48 @@
+{
+  "name": "WeCoin",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2021-08-25T00:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x7A99E8A985cE71263472C6AEa3f68724f85db5d9",
+      "name": "EEEE",
+      "symbol": "EE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_zrx.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0xEE1f693a2005cEd2e6A35745a73a0c3661A628fA",
+      "name": "SSSS",
+      "symbol": "SS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x7F23DA374415321180425528024C6F58AbedBf06",
+      "name": "TTTT",
+      "symbol": "TT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_rep.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x8AA3242EF27EDeBEF60b5215c7Ca6f6d9D472e5D",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_REP.svg"
+    },
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
