@@ -29,7 +29,15 @@
       "name": "SSSS",
       "symbol": "SS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x7F23DA374415321180425528024C6F58AbedBf06",
+      "name": "TTTT",
+      "symbol": "TT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
   ],
   "version": {
