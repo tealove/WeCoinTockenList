@@ -22,6 +22,14 @@
       "symbol": "EE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0xEE1f693a2005cEd2e6A35745a73a0c3661A628fA",
+      "name": "SSSS",
+      "symbol": "SS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     }
   ],
   "version": {
