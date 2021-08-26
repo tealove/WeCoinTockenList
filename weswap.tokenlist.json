@@ -9,11 +9,19 @@
   "tokens": [
     {
       "chainId": 4,
-      "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
+      "address": "0x8AA3242EF27EDeBEF60b5215c7Ca6f6d9D472e5D",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x7A99E8A985cE71263472C6AEa3f68724f85db5d9",
+      "name": "EEEE",
+      "symbol": "EE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     }
   ],
   "version": {
